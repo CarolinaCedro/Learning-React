@@ -6,25 +6,8 @@ const Header = () => {
     <Home>
       <header>
         <div className="logo">
-          <a href="#">LOGO</a>
+          <a href="#">COUNTER</a>
         </div>
-
-        <nav>
-          <ul>
-            <li>
-              <a href="#"></a>Inicio
-            </li>
-            <li>
-              <a href="#"></a>Navegação
-            </li>
-            <li>
-              <a href="#"></a>Serviços
-            </li>
-            <li>
-              <a href="#"></a>Fale Conosco
-            </li>
-          </ul>
-        </nav>
       </header>
     </Home>
   )

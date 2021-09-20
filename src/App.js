@@ -1,12 +1,12 @@
 import React from 'react'
 import Header from './Components/Header'
-import Counter from './Counter'
+import Page from './Counter'
 
 function App() {
   return (
     <>
       <Header />
-      <Counter />
+      <Page />
     </>
   )
 }
